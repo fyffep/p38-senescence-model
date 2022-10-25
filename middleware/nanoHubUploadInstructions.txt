@@ -1,0 +1,5 @@
+1. Copy model into tellerium.ipynb
+2. Rename model to 'aaa.ipynb'
+3. Update middleware/invoke file to run 'aaa.ipynb'
+4. Go to https://nanohub.org/tools/create
+5. Set tool name to 'ttt' and replace 'tellerium' in middleware/invoke file to 'ttt'
